@@ -248,13 +248,23 @@
     <section id="cursos" style="text-align: center; padding-bottom: 20px">
         <h2 style="text-align: center; font-weight: bold; padding-top: 65px; padding-bottom: 50px"">CURSOS</h2>
 
-        <div class="card" style="width: 20rem; margin: auto">
+        <div class="card ml-1" style="width: 20rem; margin: auto; display: inline-block">
             <div class="card-header">
-                <h4 class="my-0 font-weight-normal">Edital Direcionado AFRFB</h4>
+                <h4 class="my-0 font-weight-normal">Edital Direcionado <br> AFRFB 30h</h4>
             </div>
             <div class="card-body">
                 <img src="img/ebookeditaldirecionado.png" alt="PDFs do edital direcionado" width="160px">
                 <a href="{{route('basico-afrfb')}}" style="margin: 10px auto; color: #fff" class="btn btn-lg btn-block btn-primary">Saiba mais</a>
+            </div>
+        </div>
+
+        <div class="card ml-1" style="width: 20rem; margin: auto; display: inline-block">
+            <div class="card-header">
+                <h4 class="my-0 font-weight-normal">Edital Direcionado <br> AFRFB 45h</h4>
+            </div>
+            <div class="card-body">
+                <img src="img/ebookeditaldirecionado.png" alt="PDFs do edital direcionado" width="160px">
+                <a href="{{route('basico-afrfb45')}}" style="margin: 10px auto; color: #fff" class="btn btn-lg btn-block btn-primary">Saiba mais</a>
             </div>
         </div>
 

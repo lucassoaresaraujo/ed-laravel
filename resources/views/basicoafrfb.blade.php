@@ -8,6 +8,7 @@
 
         <section id="rf" style=" padding: 50px">
             <div class="container">
+                <h2 class="mb-5 text-center">Edital Direcionado AFRFB 30h</h2>
                 <div class="row">
                     <div class="mt-2 text-primary col-sm-4">
                         <b style="color: #3F4755;">
@@ -48,7 +49,7 @@
                 <img src="img/ebookeditaldirecionado.png" alt="PDFs do edital direcionado" width="300px">
 
                 <div class="container mt-5">
-                    <div class="card-deck mb-3 text-center">
+                    <div class="card-deck mb-3 text-center" style="width: 50rem; margin: 0 auto; padding: 0;">
 
                         <div class="card mb-4 shadow-sm">
                             <div class="card-header">
@@ -64,20 +65,20 @@
                                 <a href="https://pay.hotmart.com/E8039873E" style="color: #fff" class="btn btn-lg btn-block btn-primary">Quero começar</a>
                             </div>
                         </div>
-                        <div class="card mb-4 shadow-sm">
-                            <div class="card-header">
-                                <h4 class="my-0 font-weight-normal">45 horas/semana</h4>
-                            </div>
-                            <div class="card-body">
-                                <h1 class="card-title pricing-card-title"><small style="text-decoration: line-through">R$ 299,90</small><br> R$199,90</h1>
-                                <ul class="list-unstyled mt-3 mb-4">
-                                    <li>Indicado para quem possui um maior tempo de estudo</li>
-                                    <li>45 horas de estudo por semana</li>
-                                    <li>8 horas diárias de segunda à sexta, mais 5 horas no sábado</li>
-                                </ul>
-                                <a href="https://pay.hotmart.com/G8144227K" class="btn btn-lg btn-block btn-primary" style="color: #fff">Quero começar</a>
-                            </div>
-                        </div>
+                        {{--<div class="card mb-4 shadow-sm">--}}
+                            {{--<div class="card-header">--}}
+                                {{--<h4 class="my-0 font-weight-normal">45 horas/semana</h4>--}}
+                            {{--</div>--}}
+                            {{--<div class="card-body">--}}
+                                {{--<h1 class="card-title pricing-card-title"><small style="text-decoration: line-through">R$ 299,90</small><br> R$199,90</h1>--}}
+                                {{--<ul class="list-unstyled mt-3 mb-4">--}}
+                                    {{--<li>Indicado para quem possui um maior tempo de estudo</li>--}}
+                                    {{--<li>45 horas de estudo por semana</li>--}}
+                                    {{--<li>8 horas diárias de segunda à sexta, mais 5 horas no sábado</li>--}}
+                                {{--</ul>--}}
+                                {{--<a href="https://pay.hotmart.com/G8144227K" class="btn btn-lg btn-block btn-primary" style="color: #fff">Quero começar</a>--}}
+                            {{--</div>--}}
+                        {{--</div>--}}
                     </div>
                 </div>
 

@@ -23,3 +23,12 @@ Route::get('/materiais-gratuitos', function () {
 Route::get('/basico-afrfb', function () {
     return view('basicoafrfb');
 })->name('basico-afrfb');
+
+Route::get('/basico-afrfb45', function () {
+    return view('basicoafrfb45');
+})->name('basico-afrfb45');
+
+Route::get('/basicoafrf45-novo', function () {
+    return view('basicoafrf45-novo');
+})->name('basicoafrf45-novo');
+
