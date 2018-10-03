@@ -45,7 +45,7 @@
         <section>
             <div class="container" style="text-align: center; padding: 50px 0">
 
-                <h2 class="mb-5" style="font-weight: normal; font-family: 'Open Sans', sans-serif">Acesso Imediato de R$ 299,90 por apenas <br><span style="font-weight: bold; color: #5884B5">R$ 199,90 à Vista</span> ou em até <span style="font-weight: bold; color: #5884B5">4 Vezes</span></h2>
+                <h2 class="mb-5" style="font-weight: normal; font-family: 'Open Sans', sans-serif">Acesso Imediato por apenas <span style="font-weight: bold; color: #5884B5">R$ 299,90 à vista</span> ou em até <span style="font-weight: bold; color: #5884B5">6 vezes</span></h2>
                 <img src="img/ebookeditaldirecionado.png" alt="PDFs do edital direcionado" width="300px">
 
                 <div class="container mt-5">
@@ -56,13 +56,13 @@
                                 <h4 class="my-0 font-weight-normal">30 horas/semana</h4>
                             </div>
                             <div class="card-body">
-                                <h1 class="card-title pricing-card-title"><small style="text-decoration: line-through">R$ 299,90</small><br>R$199,90</h1>
+                                <h1 class="card-title pricing-card-title">R$299,90</h1>
                                 <ul class="list-unstyled mt-3 mb-4">
                                     <li>Indicado para quem trabalha e estuda</li>
                                     <li>30 horas de estudo por semana.</li>
                                     <li>5 horas diárias de segunda à sabado</li>
                                 </ul>
-                                <a href="https://pay.hotmart.com/E8039873E" style="color: #fff" class="btn btn-lg btn-block btn-primary">Quero começar</a>
+                                <a href="https://pay.hotmart.com/R8696935R" style="color: #fff" class="btn btn-lg btn-block btn-primary">Quero começar</a>
                             </div>
                         </div>
                         {{--<div class="card mb-4 shadow-sm">--}}
