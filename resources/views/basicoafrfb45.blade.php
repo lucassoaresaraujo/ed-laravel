@@ -51,7 +51,7 @@
             <img src="img/ebookeditaldirecionado.png" alt="PDFs do edital direcionado" width="300px">
 
             <div class="container mt-5">
-                <div class="card-deck mb-3 text-center" style="width: 50rem; margin: 0 auto; padding: 0;">
+                <div class="card-deck mb-3 text-center" style="max-width: 50rem; margin: 0 auto; padding: 0;">
 
                     {{--<div class="card mb-4 shadow-sm">--}}
                         {{--<div class="card-header">--}}

@@ -17,7 +17,7 @@
                     </div>
                     <div class="mt-2 thumb col-sm-5">
                         <img src="img/logo_leao.jpg" alt="" class="img-responsive" klickart-edit-not-highlight=""
-                            klickart-image-source="src" style="width: 292px; border-radius: 0%; vertical-align: middle;">
+                            klickart-image-source="src" style="max-width: 292px; border-radius: 0%; vertical-align: middle;">
                     </div>
                     <div class="mt-2 text-secondary col-sm-3">
                         <div style="font-weight: bold">
