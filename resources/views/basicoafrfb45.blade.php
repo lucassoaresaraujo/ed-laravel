@@ -78,7 +78,7 @@
                                 <li>45 horas de estudo por semana</li>
                                 <li>8 horas diárias de segunda à sexta, mais 5 horas no sábado</li>
                             </ul>
-                            <a href="https://pay.hotmart.com/G8144227K" class="btn btn-lg btn-block btn-primary" style="color: #fff">Quero começar</a>
+                            <a href="https://pay.hotmart.com/A8716964A" class="btn btn-lg btn-block btn-primary" style="color: #fff">Quero começar</a>
                         </div>
                     </div>
                 </div>
