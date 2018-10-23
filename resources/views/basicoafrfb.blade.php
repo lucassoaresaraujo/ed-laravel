@@ -17,7 +17,7 @@
                     </div>
                     <div class="mt-2 thumb col-sm-5">
                         <img src="img/logo_leao.jpg" alt="" class="img-responsive" klickart-edit-not-highlight=""
-                            klickart-image-source="src" style="width: 292px; border-radius: 0%; vertical-align: middle;">
+                            klickart-image-source="src" style="max-width: 292px; border-radius: 0%; vertical-align: middle;">
                     </div>
                     <div class="mt-2 text-secondary col-sm-3">
                         <div style="font-weight: bold">
@@ -49,7 +49,7 @@
                 <img src="img/afrfbbasico.jpeg" alt="PDFs do edital direcionado" width="300px">
 
                 <div class="container mt-5">
-                    <div class="card-deck mb-3 text-center" style="width: 50rem; margin: 0 auto; padding: 0;">
+                    <div class="card-deck mb-3 text-center" style="max-width: 50rem; margin: 0 auto; padding: 0;">
 
                         <div class="card mb-4 shadow-sm">
                             <div class="card-header">

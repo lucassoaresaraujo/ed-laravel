@@ -51,7 +51,7 @@
             <img src="img/ebookeditaldirecionado.png" alt="PDFs do edital direcionado" width="300px">
 
             <div class="container mt-5">
-                <div class="card-deck mb-3 text-center" style="width: 50rem; margin: 0 auto; padding: 0;">
+                <div class="card-deck mb-3 text-center" style="max-width: 50rem; margin: 0 auto; padding: 0;">
 
                     {{--<div class="card mb-4 shadow-sm">--}}
                         {{--<div class="card-header">--}}
@@ -78,7 +78,7 @@
                                 <li>45 horas de estudo por semana</li>
                                 <li>8 horas diárias de segunda à sexta, mais 5 horas no sábado</li>
                             </ul>
-                            <a href="https://pay.hotmart.com/G8144227K" class="btn btn-lg btn-block btn-primary" style="color: #fff">Quero começar</a>
+                            <a href="https://pay.hotmart.com/A8716964A" class="btn btn-lg btn-block btn-primary" style="color: #fff">Quero começar</a>
                         </div>
                     </div>
                 </div>
