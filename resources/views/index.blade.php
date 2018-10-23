@@ -30,19 +30,39 @@
                 </div>
             </div>
         </div>
-        <div class="row justify-content-center mt-2">
-            <form action="https://editaldirecionado.us18.list-manage.com/subscribe/post?u=a927a9f89172e3a47834cc8a7&amp;id=7c4a4e5504"
-                  method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="col-sm-12 col-md-7"
-                  target="_blank">
-                <input type="email" value="" name="EMAIL" placeholder="Digite seu e-mail" required id="mce-EMAIL">
+        <div class="row">
+            <div class="col email-col justify-content-center mt-4">
+                <h3 class="mb-4">Saiba mais sobre o <br>Edital Direcionado AFRFB Básico:</h3>
+                <form action="https://editaldirecionado.us18.list-manage.com/subscribe/post?u=a927a9f89172e3a47834cc8a7&amp;id=7c4a4e5504"
+                      method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="col-sm-12 col-md-7"
+                      target="_blank">
+                    <input type="email" value="" name="EMAIL" placeholder="Digite seu e-mail" class="mce-EMAIL" required id="mce-EMAIL">
 
-                <div style="position: absolute; left: -5000px;" aria-hidden="true">
-                    <input type="text" name="b_a927a9f89172e3a47834cc8a7_7c4a4e5504" tabindex="-1" value="">
-                </div>
-                <input type="submit" class="mt-1 mb-4 col-sm-12 btn btn-primary btn-lg"
-                       value="Quero saber mais do Edital Direcionado"/>
-            </form>
+                    <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                        <input type="text" name="b_a927a9f89172e3a47834cc8a7_7c4a4e5504" tabindex="-1" value="">
+                    </div>
+                    <input type="submit" class="mt-1 mb-4 col-sm-12 btn btn-primary btn-lg"
+                           value="Baixar material"/>
+                </form>
+            </div>
+
+            <div class="col email-col justify-content-center mt-4">
+                <h3 class="mb-4">Saiba mais sobre o <br>Edital Direcionado AFRFB Avançado:</h3>
+                <form action="https://editaldirecionado.us18.list-manage.com/subscribe/post?u=a927a9f89172e3a47834cc8a7&amp;id=f01be9123b" method="post" id="mc-embedded-subscribe-form-2" name="mc-embedded-subscribe-form"
+                      class="col-sm-12 col-md-7"
+                      target="_blank">
+                    <input type="email" value="" name="EMAIL" placeholder="Digite seu e-mail" required class="mce-EMAIL" id="mce-EMAIL-2">
+
+                    <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                        <input type="text" name="b_a927a9f89172e3a47834cc8a7_f01be9123b" tabindex="-1" value="">
+                    </div>
+                    <input type="submit" class="mt-1 mb-4 col-sm-12 btn btn-primary btn-lg"
+                           value="Baixar material"/>
+                </form>
+            </div>
+
         </div>
+
     </div>
 
     {{--<section id="rf" style="background-color: #CCEDFF; padding: 50px">--}}
@@ -250,20 +270,20 @@
 
         <div class="card ml-1" style="width: 20rem; margin: auto; display: inline-block">
             <div class="card-header">
-                <h4 class="my-0 font-weight-normal">Edital Direcionado <br> AFRFB 30h</h4>
+                <h4 class="my-0 font-weight-normal">Edital Direcionado<br>AFRFB Básico - CICLO 30H</h4>
             </div>
             <div class="card-body">
-                <img src="img/ebookeditaldirecionado.png" alt="PDFs do edital direcionado" width="160px">
+                <img src="img/afrfbbasico.jpeg" alt="PDFs do edital direcionado" width="160px">
                 <a href="{{route('basico-afrfb')}}" style="margin: 10px auto; color: #fff" class="btn btn-lg btn-block btn-primary">Saiba mais</a>
             </div>
         </div>
 
         <div class="card ml-1" style="width: 20rem; margin: auto; display: inline-block">
             <div class="card-header">
-                <h4 class="my-0 font-weight-normal">Edital Direcionado <br> AFRFB 45h</h4>
+                <h4 class="my-0 font-weight-normal">Edital Direcionado<br>AFRFB Básico - CICLO 45h</h4>
             </div>
             <div class="card-body">
-                <img src="img/ebookeditaldirecionado.png" alt="PDFs do edital direcionado" width="160px">
+                <img src="img/afrfbbasico.jpeg" alt="PDFs do edital direcionado" width="160px">
                 <a href="{{route('basico-afrfb45')}}" style="margin: 10px auto; color: #fff" class="btn btn-lg btn-block btn-primary">Saiba mais</a>
             </div>
         </div>

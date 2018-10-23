@@ -32,3 +32,11 @@ Route::get('/basicoafrf45-novo', function () {
     return view('basicoafrf45-novo');
 })->name('basicoafrf45-novo');
 
+Route::get('/avancado-afrfb', function () {
+    return view('avancadoafrfb30');
+})->name('avancado-afrfb');
+
+Route::get('/avancado-afrfb45', function () {
+    return view('avancadoafrfb45');
+})->name('avancado-afrfb45');
+

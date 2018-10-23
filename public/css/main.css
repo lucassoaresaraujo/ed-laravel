@@ -106,10 +106,11 @@ textarea {
 
 
 
-#mce-EMAIL{
+.mce-EMAIL{
     width: 100%;
+    margin: 0 auto;
     padding: 16px;
-    font-size: 21px;
+    font-size: 18px;
     color: #a3a3a3;
     outline: none;
     border: 1px solid #DDDDDD;

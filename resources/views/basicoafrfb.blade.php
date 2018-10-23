@@ -8,7 +8,7 @@
 
         <section id="rf" style=" padding: 50px">
             <div class="container">
-                <h2 class="mb-5 text-center">Edital Direcionado AFRFB 30h</h2>
+                <h2 class="mb-5 text-center">Edital Direcionado AFRFB Básico - CICLO 30h</h2>
                 <div class="row">
                     <div class="mt-2 text-primary col-sm-4">
                         <b style="color: #3F4755;">
@@ -46,7 +46,7 @@
             <div class="container" style="text-align: center; padding: 50px 0">
 
                 <h2 class="mb-5" style="font-weight: normal; font-family: 'Open Sans', sans-serif">Acesso Imediato por apenas <span style="font-weight: bold; color: #5884B5">R$ 299,90 à vista</span> ou em até <span style="font-weight: bold; color: #5884B5">6 vezes</span></h2>
-                <img src="img/ebookeditaldirecionado.png" alt="PDFs do edital direcionado" width="300px">
+                <img src="img/afrfbbasico.jpeg" alt="PDFs do edital direcionado" width="300px">
 
                 <div class="container mt-5">
                     <div class="card-deck mb-3 text-center" style="width: 50rem; margin: 0 auto; padding: 0;">
