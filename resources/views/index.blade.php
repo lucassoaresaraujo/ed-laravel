@@ -293,7 +293,7 @@
                 <h4 class="my-0 font-weight-normal"; style="font-size: 21px;">Edital Direcionado<br>AFRFB Avançado - CICLO 30h</h4>
             </div>
             <div class="card-body">
-                <img src="img/editalDirecionado.jpeg" alt="PDFs do edital direcionado" width="160px">
+                <img src="img/afrfb-avançado.png" alt="PDFs do edital direcionado" width="160px">
                 <a href="{{route('avancado-afrfb')}}" style="margin: 10px auto; color: #fff" class="btn btn-lg btn-block btn-primary">Saiba mais</a>
             </div>
         </div>
@@ -303,7 +303,7 @@
                 <h4 class="my-0 font-weight-normal" style="font-size: 21px;">Edital Direcionado<br>AFRFB Avançado - CICLO 45h</h4>
             </div>
             <div class="card-body">
-                <img src="img/editalDirecionado.jpeg" alt="PDFs do edital direcionado" width="160px">
+                <img src="img/afrfb-avançado.png" alt="PDFs do edital direcionado" width="160px">
                 <a href="{{route('avancado-afrfb45')}}" style="margin: 10px auto; color: #fff" class="btn btn-lg btn-block btn-primary">Saiba mais</a>
             </div>
         </div>

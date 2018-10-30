@@ -46,7 +46,7 @@
         <div class="container" style="text-align: center; padding: 50px 0">
 
             <h2 class="mb-5" style="font-weight: normal; font-family: 'Open Sans', sans-serif"><strong>Promoção de lançamento:</strong><br>Acesso Imediato por apenas <span style="font-weight: bold; color: #5884B5">R$ 249,90 à vista</span> ou em até <span style="font-weight: bold; color: #5884B5">6 vezes</span></h2>
-            <img src="img/ebookeditaldirecionado.png" alt="PDFs do edital direcionado" width="300px">
+            <img src="img/afrfb-avançado.png" alt="PDFs do edital direcionado" width="300px">
 
             <div class="container mt-5">
                 <div class="card-deck mb-3 text-center" style="width: 50rem; margin: 0 auto; padding: 0;">
