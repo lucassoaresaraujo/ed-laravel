@@ -266,11 +266,11 @@
     </section>
 
     <section id="cursos" style="text-align: center; padding-bottom: 20px">
-        <h2 style="text-align: center; font-weight: bold; padding-top: 65px; padding-bottom: 50px"">CURSOS</h2>
+        <h2 style="text-align: center; font-weight: bold; padding-top: 65px; padding-bottom: 50px">CURSOS</h2>
 
-        <div class="card ml-1" style="width: 20rem; margin: auto; display: inline-block">
+        <div class="card ml-1 mt-sm-2 mt-3" style="width: 20rem; margin: auto; display: inline-block">
             <div class="card-header">
-                <h4 class="my-0 font-weight-normal">Edital Direcionado<br>AFRFB Básico - CICLO 30H</h4>
+                <h4 class="my-0 font-weight-normal" style="font-size: 21px;">Edital Direcionado<br>AFRFB Básico - CICLO 30H</h4>
             </div>
             <div class="card-body">
                 <img src="img/afrfbbasico.jpeg" alt="PDFs do edital direcionado" width="160px">
@@ -278,13 +278,33 @@
             </div>
         </div>
 
-        <div class="card ml-1" style="width: 20rem; margin: auto; display: inline-block">
+        <div class="card ml-1 mt-sm-2 mt-3" style="width: 20rem; margin: auto; display: inline-block">
             <div class="card-header">
-                <h4 class="my-0 font-weight-normal">Edital Direcionado<br>AFRFB Básico - CICLO 45h</h4>
+                <h4 class="my-0 font-weight-normal" style="font-size: 21px;">Edital Direcionado<br>AFRFB Básico - CICLO 45h</h4>
             </div>
             <div class="card-body">
                 <img src="img/afrfbbasico.jpeg" alt="PDFs do edital direcionado" width="160px">
                 <a href="{{route('basico-afrfb45')}}" style="margin: 10px auto; color: #fff" class="btn btn-lg btn-block btn-primary">Saiba mais</a>
+            </div>
+        </div>
+
+        <div class="card ml-1 mt-sm-2 mt-3" style="width: 20rem; margin: auto; display: inline-block;">
+            <div class="card-header">
+                <h4 class="my-0 font-weight-normal"; style="font-size: 21px;">Edital Direcionado<br>AFRFB Avançado - CICLO 30h</h4>
+            </div>
+            <div class="card-body">
+                <img src="img/editalDirecionado.jpeg" alt="PDFs do edital direcionado" width="160px">
+                <a href="{{route('avancado-afrfb')}}" style="margin: 10px auto; color: #fff" class="btn btn-lg btn-block btn-primary">Saiba mais</a>
+            </div>
+        </div>
+
+        <div class="card ml-1 mt-sm-2 mt-3" style="width: 20rem; margin: auto; display: inline-block; ">
+            <div class="card-header">
+                <h4 class="my-0 font-weight-normal" style="font-size: 21px;">Edital Direcionado<br>AFRFB Avançado - CICLO 45h</h4>
+            </div>
+            <div class="card-body">
+                <img src="img/editalDirecionado.jpeg" alt="PDFs do edital direcionado" width="160px">
+                <a href="{{route('avancado-afrfb45')}}" style="margin: 10px auto; color: #fff" class="btn btn-lg btn-block btn-primary">Saiba mais</a>
             </div>
         </div>
 
