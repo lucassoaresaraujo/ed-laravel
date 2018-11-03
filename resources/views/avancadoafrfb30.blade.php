@@ -45,7 +45,7 @@
     <section>
         <div class="container" style="text-align: center; padding: 50px 0">
 
-            <h2 class="mb-5" style="font-weight: normal; font-family: 'Open Sans', sans-serif"><strong>Promoção de lançamento:</strong><br>Acesso Imediato por apenas <span style="font-weight: bold; color: #5884B5">R$ 249,90 à vista</span> ou em até <span style="font-weight: bold; color: #5884B5">6 vezes</span></h2>
+            <h2 class="mb-5" style="font-weight: normal; font-family: 'Open Sans', sans-serif">Acesso Imediato por apenas <span style="font-weight: bold; color: #5884B5">R$ 499,90 à vista</span> ou em até <span style="font-weight: bold; color: #5884B5">6 vezes</span></h2>
             <img src="img/afrfb-avançado.png" alt="PDFs do edital direcionado" width="300px">
 
             <div class="container mt-5">
@@ -56,7 +56,7 @@
                             <h4 class="my-0 font-weight-normal">30 horas/semana</h4>
                         </div>
                         <div class="card-body">
-                            <h1 class="card-title pricing-card-title">R$249,90</h1>
+                            <h1 class="card-title pricing-card-title">R$499,90</h1>
                             <ul class="list-unstyled mt-3 mb-4">
                                 <li>Indicado para quem trabalha e estuda</li>
                                 <li>30 horas de estudo por semana.</li>

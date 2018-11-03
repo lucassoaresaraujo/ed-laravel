@@ -12,7 +12,7 @@
 
     <div class="container">
         <div id="sobre" class="row" style="margin-top: 40px;">
-            <div class="col-md-4">
+            <div class="col-md-12">
                 <h3 style="text-align: center; text-transform: uppercase; font-size: 23px;">O que é Edital Direcionado?</h3>
                 <ul style="margin-top: 25px; font-family: 'Open Sans', sans-serif; font-size: 18px; padding-left: 0">
                     <li><strong>PROJETO INOVADOR</strong> de engenharia reversa da sua prova;</li>
@@ -22,13 +22,13 @@
                     <li>Você não pode perder, assista ao vídeo e conheça mais.</li>
                 </ul>
             </div>
-            <div class="col-md-8">
-                <div id="video-yt mr-auto" class="embed-responsive embed-responsive-16by9" style="text-align: center">
-                    <iframe width="560" height="315"
-                            src="https://www.youtube.com/embed/DkrIbZNTT7U?rel=0&amp;controls=0&amp;showinfo=0"
-                            frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                </div>
-            </div>
+            {{--<div class="col-md-8">--}}
+                {{--<div id="video-yt mr-auto" class="embed-responsive embed-responsive-16by9" style="text-align: center">--}}
+                    {{--<iframe width="560" height="315"--}}
+                            {{--src="https://www.youtube.com/embed/DkrIbZNTT7U?rel=0&amp;controls=0&amp;showinfo=0"--}}
+                            {{--frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>--}}
+                {{--</div>--}}
+            {{--</div>--}}
         </div>
         <div class="row">
             <div class="col email-col justify-content-center mt-4">
